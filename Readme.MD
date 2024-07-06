@@ -2,7 +2,9 @@
 ---
 
 # Hackathon Registration Panel
-assets/HackathonRegiPanel - Made with Clipchamp.mp4
+
+(https://github.com/krishachikka/Hackathon-Registration-Panel/blob/b92d96b63978673e4def09fa081a7d064a43f931/assets/HackathonRegiPanel%20-%20Made%20with%20Clipchamp.mp4)
+
 ## Problem Statement
 
 Traditional hackathon registration processes are often cumbersome and error-prone, leading to inefficiencies for both organizers and participants. Manual methods lack scalability and may not capture all necessary participant details. The Hackathon Registration Panel addresses these challenges by providing a streamlined, user-friendly platform for participant registration, enhancing the overall efficiency and experience of hackathon events.
