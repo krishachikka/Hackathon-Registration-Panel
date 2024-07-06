@@ -3,11 +3,6 @@
 
 # Hackathon Registration Panel
 
-## Introduction
-
-Welcome to the README for the Hackathon Registration Panel project. This project aims to simplify the registration process for hackathon events, providing a user-friendly platform for participants by offering essential features and ensuring scalability and security, the Hackathon Registration Panel enhances the overall efficiency and experience of hackathon events.
-Video Link: https://drive.google.com/file/d/1D9wT8ivirwJP2Ar89fXWLTT2MUTJjLvZ/view?usp=sharing
-
 ## Problem Statement
 
 Traditional hackathon registration processes are often cumbersome and error-prone, leading to inefficiencies for both organizers and participants. Manual methods lack scalability and may not capture all necessary participant details. The Hackathon Registration Panel addresses these challenges by providing a streamlined, user-friendly platform for participant registration, enhancing the overall efficiency and experience of hackathon events.
