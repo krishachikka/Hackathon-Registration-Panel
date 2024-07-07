@@ -3,7 +3,7 @@
 
 # Hackathon Registration Panel
 
-(https://github.com/krishachikka/Hackathon-Registration-Panel/blob/main/assets/HackathonRegiPanel%20-%20Made%20with%20Clipchamp.mp4)
+[![Watch the video](https://github.com/krishachikka/Hackathon-Registration-Panel/blob/main/assets/HackathonRegiPanel%20-%20Made%20with%20Clipchamp.mp4)
 
 ## Problem Statement
 
